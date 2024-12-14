@@ -1,5 +1,5 @@
 # Root
-> <b>it is a fake one</b>. Root is an automated tool which help you to gain to access of fake root privileges and real root privileges without rooting your device. You don't need to install any other OS to gain the root privileges in your termux. This tool(ROOT) is specifically made for termux and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access. It is not real root.<br><br>
+> <b>it is a fake one</b>. Root is an automated tool which help you to gain to access of fake root privileges and real root privileges without rooting your device. You don't need to install any other OS to gain the root privileges in your termux. FKRoot is specifically made for termux and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access. It is not real root.<br><br>
 
 <centre>
 <img src="https://github.com/adarshaddee/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
@@ -8,8 +8,8 @@
 # Fake Root Privileges
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
 
-# Real Root Privileges
-This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>root</pre> in your termux. And here you go, You have access the real root privileges in termux without rooting your device just with This tool(Root)
+# Pretend Root Privileges
+This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>proot</pre>. it is a part of termux and not installed with this tool
 
 # Installation
 <pre>apt-get update && apt-get upgrade -y</pre>
