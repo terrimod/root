@@ -28,7 +28,6 @@ echo "░ ▒▓ ░▒▓░   ░ ▒░▒░▒░    ░ ▒░▒░▒░
 echo "  ░▒ ░ ▒░     ░ ▒ ▒░      ░ ▒ ▒░        ░    "
 echo "  ░░   ░    ░ ░ ░ ▒     ░ ░ ░ ▒       ░      "
 echo "   ░            ░ ░         ░ ░              "
-echo -e "\e[1;33m                                 ROOT TERMUX"
 
 echo -e "\e[1;36m\n"
 echo "[*] Automation started"
@@ -38,7 +37,7 @@ sleep 0.5
 echo "[*] Collecting packages"
 echo "[*] Preparing files"
 
-echo "[*] DONE"
+echo "[*] done"
 
 sleep 1.5
 echo -e "\n\n\e[0mHit ENTER to continue..."
@@ -46,5 +45,5 @@ read
 
 clear
 termux-reload-settings
-echo -e "TYPE \e[1;32mroot\e[1;34m WHENEVER YOU WANT ROOT PRIVILEGES\n\n"
+echo -e "please type \e[1;32mfakeroot\e[1;34m for fakeroot\n\n"
 
